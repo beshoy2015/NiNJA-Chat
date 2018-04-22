@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><?xml-stylesheet type='text/xsl' href='history.xsl'?>
+<Chat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="chat.xsd">
+    <Message color="rgb(255,255,255)" font="Arial Black">
+        <Sender id="62">hello</Sender>
+        <Receiver id="64"/>
+    </Message>
+    <Message color="rgb(230,153,179)" font="arial">
+        <Sender id="64">hegazy</Sender>
+        <Receiver id="62"/>
+    </Message>
+    <Message color="rgb(26,77,77)" font="Georgia">
+        <Sender id="64"></Sender>
+        <Receiver id="62"/>
+    </Message>
+    <Message color="rgb(26,77,77)" font="Georgia">
+        <Sender id="64">sasasas</Sender>
+        <Receiver id="62"/>
+    </Message>
+    <Message color="rgb(102,102,0)" font="Arial Black">
+        <Sender id="62">sasasaasdffas</Sender>
+        <Receiver id="64"/>
+    </Message>
+    <Message color="rgb(102,102,0)" font="Arial Black">
+        <Sender id="62"></Sender>
+        <Receiver id="64"/>
+    </Message>
+    <Message color="rgb(102,102,0)" font="Arial Black">
+        <Sender id="62"></Sender>
+        <Receiver id="64"/>
+    </Message>
+    <Message color="rgb(26,77,77)" font="Georgia">
+        <Sender id="64">assaas</Sender>
+        <Receiver id="66"/>
+    </Message>
+</Chat>
